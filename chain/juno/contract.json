@@ -112,7 +112,7 @@
   {
     "chainId": -1,
     "chainName": "juno",
-    "address": "juno1lnqhfvgr9x2u40z4d4u5ezep6cxk2kq7agd33evmjl5lfuwr52kszp0y57",
+    "address": "juno14j34agq5s0rm5s5rj6vu4c84kun0zzdr2zc2kz09psq5q9fq85zqeuf5hz",
     "symbol": "HNC",
     "description": "HOT & COLD FINANCE",
     "decimals": 6,
@@ -272,7 +272,7 @@
     "decimals": 6,
     "image": "juno/asset/wynd.png",
     "default": false,
-    "coinGeckoId": ""
+    "coinGeckoId": "wynd"
   },
   {
     "chainId": -1,
@@ -326,6 +326,94 @@
     "description": "Juno Liquid staking derivative by Wynd dao",
     "decimals": 6,
     "image": "juno/asset/wyJUNO.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1u8cr3hcjvfkzxcaacv9q75uw9hwjmn8pucc93pmy6yvkzz79kh3qncca8x",
+    "symbol": "FOX",
+    "description": "Fox is Memecoin on Juno Network inspired by Bonk",
+    "decimals": 6,
+    "image": "juno/asset/fox.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1qmlchtmjpvu0cr7u0tad2pq8838h6farrrjzp39eqa9xswg7teussrswlq",
+    "symbol": "NRIDE",
+    "description": "NRide Token",
+    "decimals": 6,
+    "image": "juno/asset/nride.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno12mcwmd6wqhledkjsurlfqtc8j0pedvxlcxw3gs4kh2qf808ehehsen8nmw",
+    "symbol": "YFD",
+    "description": "Propose. Vote. Build.",
+    "decimals": 6,
+    "image": "juno/asset/yfd.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1h86ut5aevlxuuxrra6wy3dfq6e39zkzzv9eelz678jr6amxlc4gsx46j82",
+    "symbol": "MRVA",
+    "description": "Minerva was one of the main goddesses worshiped by the Roman Pagans and is a goddess from Roman Mythology.",
+    "decimals": 6,
+    "image": "juno/asset/minerva.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno13c57ssxvlzefsj4v5spdz4m9r6c6s2far5npvmc9en7nz02xqjyqne40gk",
+    "symbol": "LUNO",
+    "description": "In Roman mythology, Juno (Latin: Iuno; pronounced [[Help:Pronunciation|[ˈjuːnoː]]]) was the protector and advisor of the state.",
+    "decimals": 6,
+    "image": "juno/asset/luno.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1elpg96tju8a32vzn25u6asvscajjm4000589z0zthhvks28ajypqzurl7r",
+    "symbol": "ATEN",
+    "description": "ATEN is NETA.",
+    "decimals": 6,
+    "image": "juno/asset/aten.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1dtd45vxvv080v9x7hffysnmvrqm6ysecjdnvafqul28646hm04xs9gheh0",
+    "symbol": "HERA",
+    "description": "HERA is the goddess of marriage in Greek mythology.",
+    "decimals": 6,
+    "image": "juno/asset/hera.png",
+    "default": false,
+    "coinGeckoId": ""
+  },
+  {
+    "chainId": -1,
+    "chainName": "juno",
+    "address": "juno1gwstg5ycwzxkecqat46kw3s0hwt6c9afsuvllu7cec0xh7nquhqszgf82c",
+    "symbol": "TAKUMI",
+    "description": "Prop #16, Prop #20.",
+    "decimals": 6,
+    "image": "juno/asset/takumi.png",
     "default": false,
     "coinGeckoId": ""
   }
